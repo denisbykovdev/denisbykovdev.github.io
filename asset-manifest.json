@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/main.5331a3dd.chunk.js",
+    "main.js.map": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/main.5331a3dd.chunk.js.map",
+    "runtime-main.js": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/runtime-main.74d7848c.js",
+    "runtime-main.js.map": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/runtime-main.74d7848c.js.map",
+    "static/js/2.239bb25c.chunk.js": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/2.239bb25c.chunk.js",
+    "static/js/2.239bb25c.chunk.js.map": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/2.239bb25c.chunk.js.map",
+    "static/js/3.5029bbdd.chunk.js": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/3.5029bbdd.chunk.js",
+    "static/js/3.5029bbdd.chunk.js.map": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/3.5029bbdd.chunk.js.map",
+    "index.html": "/denisbykovdev/denisbykovdev.github.io/three-react-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.239bb25c.chunk.js.LICENSE.txt": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/js/2.239bb25c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/denisbykovdev/denisbykovdev.github.io/three-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d7848c.js",
+    "static/js/2.239bb25c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5331a3dd.chunk.js"
+  ]
+}
